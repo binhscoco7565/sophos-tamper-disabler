@@ -1,5 +1,5 @@
 # Sophos ED Tamper Protection disabler
-Collection of scripts, registry files and guides to disable Sophos Endpoint Tamper Protection on Windows 11 (Maybe Windows 10). These scripts would eventually allow for Sophos ED to be disabled entirely, which would allow restricted apps to be executed. This does require administrator priviledges
+Collection of scripts, registry files and guides to disable Sophos Endpoint Tamper Protection on Windows 11 (Maybe Windows 10). These scripts would eventually allow for Sophos ED to be disabled entirely, which would allow restricted apps to be executed. This does require administrator privileges
 
 ## Step 1. Renaming SophosED.sys through recovery 
 
