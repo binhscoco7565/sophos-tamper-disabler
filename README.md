@@ -12,6 +12,6 @@ Collection of scripts, registry files and guides to disable Sophos Endpoint Tamp
 
 ## Step 2. Disabling Sophos ED using registry values
 
-1. Download registry files from the "registry" folder in this Github.
-2. Run these registry files (Remember elevated permissions)
+1. Download registry file `sophos.reg` in this Github.
+2. Run these registry files (Use elevated permissions if that doesn't work)
 3. Restart the computer to apply changes
